@@ -1,0 +1,17 @@
+{
+  "name": "roam-bookmark-tools",
+  "version": "1.3.0",
+  "description": "Sort all child blocks or sort and deduplicate bookmark links beneath a selected Roam parent block.",
+  "main": "extension.js",
+  "license": "MIT",
+  "roam": {
+    "title": "Bookmark Tools",
+    "shortTitle": "Bookmark Tools",
+    "tags": [
+      "bookmarks",
+      "sorting",
+      "cleanup",
+      "blocks"
+    ]
+  }
+}
